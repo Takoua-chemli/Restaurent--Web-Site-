@@ -5,9 +5,10 @@ Un site web de restaurant moderne et réactif, développé en **HTML**, **CSS**,
 ---
 
 ## 📹 Aperçu Vidéo  
-🎥 **Regardez la démo complète :** [Lien vers la vidéo](
+🎥 **Regardez la démo complète :**
+
 https://github.com/user-attachments/assets/562d8c7c-df59-4c37-948f-93944ec78523
-)  
+
 
 ---
 
